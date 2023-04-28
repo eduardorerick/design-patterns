@@ -1,5 +1,26 @@
 
 # EM DESENVOLVIMENTO
+Typescript
+- Decorator ✔️
+- Observer ❌
+- Facade ❌
+- Adapter ❌
+- State ❌
+
+Kotlin 
+- Decorator ❌
+- Observer ❌
+- Facade ❌
+- Adapter ❌
+- State ❌
+
+Java 
+- Decorator ❌
+- Observer ❌
+- Facade ❌
+- Adapter ❌
+- State ❌
+
 # Estudo de Design Patterns
 
 Este repositório contém o material de estudo sobre Design Patterns do site Refactoring Guru.
