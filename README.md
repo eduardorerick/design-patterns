@@ -17,6 +17,20 @@ Este repositório contém uma pasta para cada linguagem que contém uma pasta pa
 
 Além disso, você encontrará  exemplos de código em várias linguagens de programação que demonstram como implementar o padrão.
 
+Design patterns nesse repositório
+
+ - Decorator
+ - Observer
+ - Facade
+ - Adapter
+ - State
+ 
+ Linguagens: 
+ 
+ - Typescript
+ - Kotlin
+ - Java
+
 ## Contribuindo
 
 Este repositório é aberto a contribuições. Se você quiser contribuir com exemplos de código, melhorias nos arquivos README ou qualquer outro conteúdo relevante, fique à vontade para abrir uma pull request.
