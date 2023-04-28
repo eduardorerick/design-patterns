@@ -1,0 +1,2 @@
+O problema que vamos solucionar é o da biblioteca de notificações que é o do exemplo teórico do refactoring guru. 
+Consulte o problema no link: https://refactoring.guru/pt-br/design-patterns/decorator 

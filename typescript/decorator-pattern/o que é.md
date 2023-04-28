@@ -1,0 +1,5 @@
+O Decorator é um padrão de projeto estrutural que permite adicionar comportamentos adicionais a um objeto em tempo de execução, sem alterar a estrutura básica do objeto. Isso é alcançado por meio da criação de um objeto decorador que envolve o objeto original e adiciona novos comportamentos a ele.
+
+O Decorator é útil quando você precisa adicionar funcionalidade a um objeto de maneira dinâmica e transparente para o código existente. Ele evita a necessidade de criar subclasses para cada combinação possível de comportamentos adicionais, tornando o código mais flexível e extensível.
+
+O padrão Decorator é composto por quatro elementos principais: a classe componente, que define a interface para objetos que podem ter comportamentos adicionais; a classe decoradora, que envolve o componente e adiciona comportamentos adicionais a ele; a classe concreta do componente, que é o objeto básico a ser decorado; e a classe concreta decoradora, que adiciona comportamentos específicos ao objeto decorado.
