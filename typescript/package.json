@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Exemplos de design patterns no typescript",
   "scripts": {
-    "decorator-pattern": "ts-node ./decorator-pattern/main.ts",
-    "start": "ts-node main.ts",
+    "decorator-pattern": "ts-node ./src/decorator-pattern/main.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
