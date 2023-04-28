@@ -8,7 +8,7 @@ Typescript
 - State ❌
 
 Kotlin 
-- Decorator ❌
+- Decorator ✔️
 - Observer ❌
 - Facade ❌
 - Adapter ❌
