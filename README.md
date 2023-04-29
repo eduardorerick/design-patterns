@@ -15,7 +15,7 @@ Kotlin
 - State ❌
 
 Java 
-- Decorator ❌
+- Decorator ✔️
 - Observer ❌
 - Facade ❌
 - Adapter ❌
