@@ -4,6 +4,7 @@
   "description": "Exemplos de design patterns no typescript",
   "scripts": {
     "decorator-pattern": "ts-node ./src/decorator-pattern/main.ts",
+    "observer-pattern": "ts-node ./src/observer-pattern/main.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

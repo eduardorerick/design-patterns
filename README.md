@@ -2,7 +2,7 @@
 # EM DESENVOLVIMENTO
 Typescript
 - Decorator ✔️
-- Observer ❌
+- Observer ✔️
 - Facade ❌
 - Adapter ❌
 - State ❌
